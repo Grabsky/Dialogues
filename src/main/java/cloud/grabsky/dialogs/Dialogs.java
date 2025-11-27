@@ -23,7 +23,6 @@ import cloud.grabsky.configuration.paper.PaperConfigurationMapper;
 import cloud.grabsky.dialogs.command.DialogsCommand;
 import cloud.grabsky.dialogs.configuration.PluginLocale;
 import cloud.grabsky.dialogs.loader.DialogsLoader;
-import de.oliver.fancyanalytics.api.FancyAnalyticsAPI;
 import org.bukkit.event.Listener;
 
 import java.io.File;
@@ -71,12 +70,6 @@ public final class Dialogs extends BedrockPlugin implements Listener {
                 .registerCommand(DialogsCommand.class);
         // ...
         this.getServer().getPluginManager().registerEvents(this, this);
-        // Creating FancyAnalyticsAPI instance.
-        final FancyAnalyticsAPI analytics = new FancyAnalyticsAPI("a538eeb3-090b-4790-b889-6caceac32368", "lWQWpDhmZDhhZWVmMzQ3NzQ2ZDajZ3SQ");
-        // Registering Minecraft plugin metrics, such as plugin version, server version etc.
-        analytics.registerMinecraftPluginMetrics(this);
-        // Initializing... This should already be async?
-        analytics.initialize();
     }
 
     @Override

@@ -2,9 +2,9 @@
 
 ![Logo](https://github.com/Grabsky/Dialogs/blob/main/assets/logo.png)
 
-[![GitHub Release](https://img.shields.io/github/v/release/Grabsky/Dialogs?logo=github&labelColor=%2324292F&color=%23454F5A)](https://github.com/Grabsky/Dialogs/releases/latest)
-[![Modrinth Downloads](https://img.shields.io/modrinth/dt/dialogs?logo=modrinth&logoColor=white&label=downloads&labelColor=%23139549&color=%2318c25f)](https://modrinth.com/plugin/dialogs)
-[![CodeFactor Grade](https://img.shields.io/codefactor/grade/github/Grabsky/Dialogs?logo=codefactor&logoColor=white&label=%20)](https://www.codefactor.io/repository/github/grabsky/dialogs/issues/main)
+[![GitHub Release](https://img.shields.io/github/v/release/Grabsky/Dialogues?logo=github&labelColor=%2324292F&color=%23454F5A)](https://github.com/Grabsky/Dialogues/releases/latest)
+[![Modrinth Downloads](https://img.shields.io/modrinth/dt/dialogues?logo=modrinth&logoColor=white&label=downloads&labelColor=%23139549&color=%2318c25f)](https://modrinth.com/plugin/dialogues)
+[![CodeFactor Grade](https://img.shields.io/codefactor/grade/github/Grabsky/Dialogues?logo=codefactor&logoColor=white&label=%20)](https://www.codefactor.io/repository/github/grabsky/dialogues/issues/main)
 
 [![Modrinth](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/available/modrinth_vector.svg)](https://modrinth.com/plugin/dialogs)
 
